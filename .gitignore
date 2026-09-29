@@ -1,0 +1,73 @@
+# =========================
+# macOS
+# =========================
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+a.out
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# =========================
+# Python
+# =========================
+__pycache__/
+.pytest_cache/
+anaconda_projects/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+.pytest_cache/
+
+# =========================
+# IDEs
+# =========================
+.idea/
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
+
+# LaTeX build products (keep source files only)
+.latex-build/
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.xdv
+
+# Datasets that a notebook extracts from a committed archive
+ARTIFICIAL INTELLIGENCE/all_datasets/lab06-ocr-handwritten-prescription/
